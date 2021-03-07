@@ -1,2 +1,2 @@
-# esencial-HTML_CSS_PROYECTNOMIN
-denominar resultados semanales
+# esencial-HTML_CSS
+practicas estudio
